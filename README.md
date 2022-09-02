@@ -1,17 +1,19 @@
 # awesome-spider
 
+--------------------------
 
+
+
+<a href="https://brightdata.grsm.io/zhangchaoran5322"><img src="https://user-images.githubusercontent.com/4927218/119819524-08f58200-bf23-11eb-93f5-771924a3fb83.png"></a>
+
+[Brigtdata，旧名Luminati](https://brightdata.grsm.io/zhangchaoran5322) 目前海外最牛的代理 IP 提供商，代理抓取成功率 99%。 现在在搞优惠活动，需要高质量稳定代理的可以考虑一下，客户使用任何套餐都送 150-250 美金. 点击链接注册后根据邮件联系中文客服。
+
+----------------------------
 
 收集各种爬虫 （默认爬虫语言为 python）, 欢迎大家 提 pr 或 issue, 收集脚本见此项目 [github-search](https://github.com/facert/github_search)
 
 
 warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
-
-<hr>
-
-##### [Castbee](https://castbee.net/) 主题订阅追踪服务，创建和发布来自于不同源(Rss 微博 知乎 Twitter Youtube)的信息聚合。
-
-<a href="https://castbee.net/" target="_blank"><img src="https://pic4.zhimg.com/v2-203225eef7bdeff21636d657da8d629b_b.png"></a>
 
 
 
@@ -169,6 +171,7 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 * [新浪微博分布式爬虫](https://github.com/ResolveWang/weibospider)
 * [心灵毒鸡汤](https://github.com/sy-records/speech_spiders/tree/master/chicken-soup)
 * [闲鱼最新商品爬取](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/XianyuCrawler)
+* [H 片下载工具（xvideos.com）](https://github.com/lonsty/xvideos-dl)
 
 ### Y
 * [英美剧 TV (node.js)](https://github.com/pockry/tv-crawler)
@@ -182,6 +185,7 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 * [自如实时房源提醒](https://github.com/facert/ziroom_realtime_spider)
 * [中国大陆高校列表爬虫](https://github.com/codeudan/crawler-china-mainland-universities.git)
 * [站酷（zcool.com.cn）图片爬虫](https://github.com/lonsty/scraper)
+
 ### \#
 * [80s 影视资源爬虫 - JianSo_Movie](https://github.com/but0n/JianSo_Movie)
 
